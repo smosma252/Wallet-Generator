@@ -1,5 +1,7 @@
 # Wallet-Generator
 
+ It supports both the generation of new wallets and the entry of existing recovery phrases (Implement Feature). It displays generated private and public keys, provides functionality to copy them to the clipboard, and includes features for showing or hiding sensitive information.
+
 # Features
 
 Generate Wallet: Create a new wallet and view generated private and public keys.
