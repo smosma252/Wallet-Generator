@@ -1,15 +1,15 @@
 # Wallet-Generator
 
-#Features
+# Features
 
 Generate Wallet: Create a new wallet and view generated private and public keys.
 Toggle Visibility: Show or hide private keys and recovery phrases to enhance security.
 
-#Future Features:
+# Future Features:
 Import Wallet: Optionally enter an existing recovery phrase to generate keys.
 Copy to Clipboard: Easily copy private keys, public keys, and the recovery phrase.
 
-#Installation
+# Installation
 Ensure you have Node.js and npm installed on your machine.
 
 Clone the repository or add the component to your existing React project.
@@ -18,7 +18,7 @@ Install the required dependencies.
 npm install
 
 
-#State Management
+# State Management
 Utilizited Atom to store states
 
 mnemonicWords: Stores the words of the recovery phrase.
